@@ -1,0 +1,169 @@
+﻿Country_Name,Iso3,Democracy_Index (2012)
+Afghanistan,AFG,2.48
+Albania,ALB,5.67
+Algeria,DZA,3.83
+Angola,AGO,3.35
+Argentina,ARG,6.840000000000001
+Armenia,ARM,4.09
+Australia,AUS,9.22
+Austria,AUT,8.62
+Azerbaijan,AZE,3.15
+Bahrain,BHR,2.53
+Bangladesh,BGD,5.86
+Belarus,BLR,3.04
+Belgium,BEL,8.05
+Benin,BEN,6
+Bhutan,BTN,4.65
+Bolivia,BOL,5.84
+Bosnia and Herzegovina,BIH,5.11
+Botswana,BWA,7.85
+Brazil,BRA,7.12
+Bulgaria,BGR,6.720000000000001
+Burkina Faso,BFA,3.52
+Burundi,BDI,3.6
+Cambodia,KHM,4.96
+Cameroon,CMR,3.44
+Canada,CAN,9.08
+Cape Verde,CPV,7.92
+Central African Republic,CAF,1.99
+Chad,TCD,1.62
+Chile,CHL,7.540000000000001
+China,CHN,3
+Colombia,COL,6.63
+Comoros,COM,3.52
+Congo,COG,2.89
+Costa Rica,CRI,8.1
+Cote d'Ivoire,CIV,3.25
+Croatia,HRV,6.93
+Cuba,CUB,3.52
+Cyprus,CYP,7.290000000000001
+Czechia,CZE,8.19
+Democratic Republic of Congo,COD,1.92
+Denmark,DNK,9.52
+Djibouti,DJI,2.74
+Dominican Republic,DOM,6.49
+East Timor,TLS,7.159999999999999
+Ecuador,ECU,5.78
+Egypt,EGY,4.56
+El Salvador,SLV,6.470000000000001
+Equatorial Guinea,GNQ,1.83
+Eritrea,ERI,2.4
+Estonia,EST,7.610000000000001
+Eswatini,SWZ,3.2
+Ethiopia,ETH,3.72
+Fiji,FJI,3.67
+Finland,FIN,9.06
+France,FRA,7.88
+Gabon,GAB,3.56
+Gambia,GMB,3.31
+Georgia,GEO,5.53
+Germany,DEU,8.34
+Ghana,GHA,6.02
+Greece,GRC,7.65
+Guatemala,GTM,5.88
+Guinea,GIN,2.79
+Guinea-Bissau,GNB,1.43
+Guyana,GUY,6.05
+Haiti,HTI,3.96
+Honduras,HND,5.84
+Hong Kong,HKG,6.42
+Hungary,HUN,6.959999999999999
+Iceland,ISL,9.65
+India,IND,7.519999999999999
+Indonesia,IDN,6.76
+Iran,IRN,1.98
+Iraq,IRQ,4.1
+Ireland,IRL,8.56
+Israel,ISR,7.529999999999999
+Italy,ITA,7.74
+Jamaica,JAM,7.389999999999999
+Japan,JPN,8.08
+Jordan,JOR,3.759999999999999
+Kazakhstan,KAZ,2.95
+Kenya,KEN,4.71
+Kuwait,KWT,3.78
+Kyrgyzstan,KGZ,4.69
+Laos,LAO,2.32
+Latvia,LVA,7.05
+Lebanon,LBN,5.05
+Lesotho,LSO,6.659999999999999
+Liberia,LBR,4.95
+Libya,LBY,5.15
+Lithuania,LTU,7.24
+Luxembourg,LUX,8.88
+Madagascar,MDG,3.930000000000001
+Malawi,MWI,6.08
+Malaysia,MYS,6.409999999999999
+Mali,MLI,5.12
+Malta,MLT,8.28
+Mauritania,MRT,4.17
+Mauritius,MUS,8.17
+Mexico,MEX,6.9
+Moldova,MDA,6.32
+Mongolia,MNG,6.35
+Montenegro,MNE,6.05
+Morocco,MAR,4.07
+Mozambique,MOZ,4.88
+Myanmar,MMR,2.35
+Namibia,NAM,6.24
+Nepal,NPL,4.16
+Netherlands,NLD,8.99
+New Zealand,NZL,9.26
+Nicaragua,NIC,5.56
+Niger,NER,4.16
+Nigeria,NGA,3.77
+North Korea,PRK,1.08
+North Macedonia,MKD,6.16
+Norway,NOR,9.93
+Oman,OMN,3.259999999999999
+Pakistan,PAK,4.57
+Palestine,PSE,4.8
+Panama,PAN,7.08
+Papua New Guinea,PNG,6.32
+Paraguay,PRY,6.26
+Peru,PER,6.470000000000001
+Philippines,PHL,6.3
+Poland,POL,7.12
+Portugal,PRT,7.92
+Qatar,QAT,3.18
+Romania,ROU,6.540000000000001
+Russia,RUS,3.740000000000001
+Rwanda,RWA,3.36
+Saudi Arabia,SAU,1.71
+Senegal,SEN,6.09
+Serbia,SRB,6.33
+Sierra Leone,SLE,4.71
+Singapore,SGP,5.88
+Slovakia,SVK,7.35
+Slovenia,SVN,7.88
+South Africa,ZAF,7.790000000000001
+South Korea,KOR,8.13
+Spain,ESP,8.02
+Sri Lanka,LKA,5.75
+Sudan,SDN,2.38
+Suriname,SUR,6.65
+Sweden,SWE,9.73
+Switzerland,CHE,9.09
+Syria,SYR,1.63
+Taiwan,TWN,7.57
+Tajikistan,TJK,2.51
+Tanzania,TZA,5.88
+Thailand,THA,6.55
+Togo,TGO,3.45
+Trinidad and Tobago,TTO,6.99
+Tunisia,TUN,5.67
+Turkey,TUR,5.76
+Turkmenistan,TKM,1.72
+Uganda,UGA,5.16
+Ukraine,UKR,5.91
+United Arab Emirates,ARE,2.58
+United Kingdom,GBR,8.21
+United States,USA,8.11
+Uruguay,URY,8.17
+Uzbekistan,UZB,1.72
+Venezuela,VEN,5.15
+Vietnam,VNM,2.89
+World,OWID_WRL,5.519401197604789
+Yemen,YEM,3.12
+Zambia,ZMB,6.26
+Zimbabwe,ZWE,2.67
