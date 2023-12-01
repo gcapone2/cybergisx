@@ -1,221 +1,221 @@
-﻿Country,Events Per Year (2022) 
-Albania,6
-Algeria,22
-American Samoa,0
-Andorra,0
-Angola,66
-Anguilla,0
-Antarctica,0
-Antigua and Barbuda,0
-Argentina,65
-Armenia,146
-Aruba,0
-Australia,5
-Austria,4
-Azerbaijan,386
-Bahamas,1
-Bahrain,9
-Bailiwick of Guernsey,0
-Bailiwick of Jersey,0
-Bangladesh,877
-Barbados,0
-Belarus,46
-Belgium,15
-Belize,76
-Benin,181
-Bermuda,0
-Bhutan,2
-Bolivia,63
-Bosnia and Herzegovina,7
-Botswana,7
-Brazil,9187
-British Indian Ocean Territory,0
-British Virgin Islands,0
-Brunei,0
-Bulgaria,2
-Cambodia,6
-Canada,10
-Cape Verde,3
-Caribbean Netherlands,0
-Cayman Islands,0
-Chile,208
-China,199
-Christmas Island,0
-Cocos (Keeling) Islands,0
-Comoros,12
-Cook Islands,0
-Costa Rica,12
-Croatia,0
-Cuba,77
-Curacao,1
-Cyprus,33
-Czech Republic,2
-Denmark,2
-Djibouti,4
-Dominica,0
-Dominican Republic,45
-East Timor,3
-Ecuador,76
-Egypt,192
-El Salvador,282
-Equatorial Guinea,1
-Eritrea,4
-Estonia,0
-eSwatini,120
-Falkland Islands,0
-Faroe Islands,0
-Fiji,2
-Finland,2
-France,143
-French Guiana,0
-French Polynesia,0
-Gabon,5
-Gambia,6
-Georgia,13
-Germany,17
-Ghana,198
-Gibraltar,0
-Greece,114
-Greenland,0
-Grenada,0
-Guadeloupe,1
-Guam,0
-Guatemala,805
-Guinea,56
-Guinea-Bissau,13
-Guyana,9
-Heard Island and McDonald Islands,0
-Honduras,610
-Hungary,3
-Iceland,0
-India,2343
-Indonesia,199
-Iran,282
-Iraq,5724
-Ireland,2
-Isle of Man,0
-Israel,117
-Italy,51
-Ivory Coast,63
-Jamaica,370
-Japan,1
-Jordan,12
-Kazakhstan,146
-Kenya,991
-Kiribati,0
-Kosovo,23
-Kuwait,0
-Kyrgyzstan,61
-Laos,0
-Latvia,0
-Lebanon,260
-Lesotho,15
-Liberia,28
-Libya,115
-Liechtenstein,0
-Lithuania,0
-Luxembourg,0
-Madagascar,227
-Malawi,86
-Malaysia,7
-Maldives,1
-Malta,1
-Marshall Islands,0
-Martinique,0
-Mauritania,7
-Mauritius,31
-Mayotte,25
-Mexico,7149
-Micronesia,0
-Moldova,13
-Monaco,0
-Mongolia,0
-Montenegro,2
-Montserrat,0
-Morocco,84
-Namibia,11
-Nauru,0
-Nepal,415
-Netherlands,9
-New Caledonia,0
-New Zealand,0
-Nicaragua,13
-Niue,0
-Norfolk Island,0
-North Korea,18
-North Macedonia,1
-Northern Mariana Islands,0
-Norway,2
-Oman,1
-Pakistan,1210
-Palau,0
-Panama,8
-Papua New Guinea,145
-Paraguay,72
-Peru,132
-Philippines,832
-Pitcairn,0
-Poland,80
-Portugal,0
-Puerto Rico,245
-Qatar,0
-Republic of Congo,12
-Reunion,10
-Romania,6
-Russia,422
-Rwanda,23
-"Saint Helena, Ascension and Tristan da Cunha",0
-Saint Kitts and Nevis,0
-Saint Lucia,1
-Saint Pierre and Miquelon,0
-Saint Vincent and the Grenadines,0
-Saint-Barthelemy,0
-Saint-Martin,0
-Samoa,0
-San Marino,0
-Sao Tome and Principe,2
-Saudi Arabia,40
-Senegal,64
-Serbia,8
-Seychelles,0
-Sierra Leone,20
-Singapore,0
-Sint Maarten,2
-Slovakia,3
-Slovenia,1
-Solomon Islands,4
-South Africa,420
-South Georgia and the South Sandwich Islands,0
-South Korea,4
-Spain,13
-Sri Lanka,27
-Suriname,5
-Sweden,5
-Switzerland,2
-Taiwan,8
-Tajikistan,25
-Tanzania,39
-Thailand,110
-Togo,36
-Tokelau,0
-Tonga,0
-Trinidad and Tobago,337
-Tunisia,8
-Turkey,365
-Turkmenistan,0
-Turks and Caicos Islands,0
-Tuvalu,0
-Uganda,430
-United Arab Emirates,8
-United Kingdom,23
-United States,190
-United States Minor Outlying Islands,0
-Uruguay,4
-Uzbekistan,43
-Vanuatu,1
-Vatican City,0
-Vietnam,0
-"Virgin Islands, U.S.",0
-Wallis and Futuna,0
-Zambia,38
-Zimbabwe,141
+﻿ID_code,Events Per Year (2022) 
+ALB,6
+DZA,22
+ASM,0
+AND,0
+AGO,66
+AIA,0
+ATA,0
+ATG,0
+ARG,65
+ARM,146
+ABW,0
+AUS,5
+AUT,4
+AZE,386
+BHS,1
+BHR,9
+GGY,0
+JEY,0
+BGD,877
+BRB,0
+BLR,46
+BEL,15
+BLZ,76
+BEN,181
+BMU,0
+BTN,2
+BOL,63
+BIH,7
+BWA,7
+BRA,9187
+IOT,0
+VGB,0
+BRN,0
+BGR,2
+KHM,6
+CAN,10
+CPV,3
+BES,0
+CYM,0
+CHL,208
+CHN,199
+CXR,0
+CCK,0
+COM,12
+COK,0
+CRI,12
+HRV,0
+CUB,77
+CUW,1
+CYP,33
+CZE,2
+DNK,2
+DJI,4
+DMA,0
+DOM,45
+TLS,3
+ECU,76
+EGY,192
+SLV,282
+GNQ,1
+ERI,4
+EST,0
+SWZ,120
+FLK,0
+FRO,0
+FJI,2
+FIN,2
+FRA,143
+GUF,0
+PYF,0
+GAB,5
+GMB,6
+GEO,13
+DEU,17
+GHA,198
+GIB,0
+GRC,114
+GRL,0
+GRD,0
+GLP,1
+GUM,0
+GTM,805
+GIN,56
+GNB,13
+GUY,9
+HMD,0
+HND,610
+HUN,3
+ISL,0
+IND,2343
+IDN,199
+IRN,282
+IRQ,5724
+IRL,2
+IMN,0
+ISR,117
+ITA,51
+CIV,63
+JAM,370
+JPN,1
+JOR,12
+KAZ,146
+KEN,991
+KIR,0
+XKX,23
+KWT,0
+KGZ,61
+LAO,0
+LVA,0
+LBN,260
+LSO,15
+LBR,28
+LBY,115
+LIE,0
+LTU,0
+LUX,0
+MDG,227
+MWI,86
+MYS,7
+MDV,1
+MLT,1
+MHL,0
+MTQ,0
+MRT,7
+MUS,31
+MYT,25
+MEX,7149
+FSM,0
+MDA,13
+MCO,0
+MNG,0
+MNE,2
+MSR,0
+MAR,84
+NAM,11
+NRU,0
+NPL,415
+NLD,9
+NCL,0
+NZL,0
+NIC,13
+NIU,0
+NFK,0
+PRK,18
+MKD,1
+MNP,0
+NOR,2
+OMN,1
+PAK,1210
+PLW,0
+PAN,8
+PNG,145
+PRY,72
+PER,132
+PHL,832
+PCN,0
+POL,80
+PRT,0
+PRI,245
+QAT,0
+COG,12
+REU,10
+ROU,6
+RUS,422
+RWA,23
+SHN,0
+KNA,0
+LCA,1
+SPM,0
+VCT,0
+BLM,0
+MAF,0
+WSM,0
+SMR,0
+STP,2
+SAU,40
+SEN,64
+SRB,8
+SYC,0
+SLE,20
+SGP,0
+SXM,2
+SVK,3
+SVN,1
+SLB,4
+ZAF,420
+SGS,0
+KOR,4
+ESP,13
+LKA,27
+SUR,5
+SWE,5
+CHE,2
+TWN,8
+TJK,25
+TZA,39
+THA,110
+TGO,36
+TKL,0
+TON,0
+TTO,337
+TUN,8
+TUR,365
+TKM,0
+TCA,0
+TUV,0
+UGA,430
+ARE,8
+GBR,23
+USA,190
+UMI,0
+URY,4
+UZB,43
+VUT,1
+VAT,0
+VNM,0
+VIR,0
+WLF,0
+ZMB,38
+ZWE,141
